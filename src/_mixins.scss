@@ -1,0 +1,15 @@
+@mixin backlogo($logo, $height: 100px) {
+    background: url($logo);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+@mixin navi() {
+
+}
+
+@mixin footerstyle() {
+    greybar($black)
+    
+}

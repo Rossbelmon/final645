@@ -1,0 +1,27 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^5.1.0",
+    "node-sass": "^7.0.1",
+    "sass": "^1.49.9"
+  },
+  "dependencies": {
+    "immutable": "^4.0.0",
+    "is-extglob": "^2.1.1",
+    "is-glob": "^4.0.3",
+    "normalize-path": "^3.0.0",
+    "normalize.css": "^8.0.1",
+    "picomatch": "^2.3.1",
+    "source-map-js": "^1.0.2"
+  },
+  "description": ""
+}
